@@ -1,0 +1,7 @@
+Jan Novak 17 1 2 3 1 2
+Michaela Novakova 22 3 2 3 4 1
+Tomas Hlinka 45 1 4 4 4 5
+Daniel Kollar 20 1 1 1 2 1
+Filip Bezdeda 16 3 1 4 1 3
+Martin Bartos 20 5 1 2 1 1
+Stefan Rothmajer 20 1 1 1 1 1
